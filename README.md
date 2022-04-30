@@ -58,7 +58,7 @@
 </p>
 
 
-⚡ Fun fact: The more we have focused on inverse of control (or dependency injection), the more chance of "decoupled" we have been from our spouse.
+⚡ Fun fact: The more we have focused on inversion of control (or dependency injection), the more chance of "decoupled" we have been from our spouse.
 
 
 
