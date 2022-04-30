@@ -1,6 +1,6 @@
 # Hi there 👋
 
- This is Brian, Fullstack Software Engineer from Regian, Saskatchewan Canada
+ This is Brian, Software Engineer based in Regian, Saskatchewan Canada
 
  🔭 I'm currently looking for a fullstack software engineer job.
 
