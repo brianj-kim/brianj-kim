@@ -4,7 +4,7 @@
 
  🔭 I'm currently looking for a fullstack software engineer job.
 
- At the same time, 👯 I’m looking to collaborate on any kind of problem solving utilizing my apptitude and skills.
+ At the same time, 👯 I’m looking to collaborate on any kind of projects, utilizing my apptitude and skills.
 
 ### Things I code with
 
